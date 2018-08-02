@@ -12,7 +12,7 @@
          `"""""""""""""-.....-'
 
  		Authors:
-			Adam "Zydr4te" Morris
+			Adam "C4RnaG3" Morris
 			Kelvin "grepnoir" Ashton
 
 		Purpose:
